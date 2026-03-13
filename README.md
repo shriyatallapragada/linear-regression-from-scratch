@@ -13,7 +13,7 @@ The model is structured as a highly scalable Python class (`LinearRegression`), 
 * **`calculate_mse()`:** Evaluates the model's accuracy using the Mean Squared Error mathematical formula to prove reliability.
 
 ## 📊 Real-World Business Application
-
+![Startup Revenue Forecast Graph](forecast_graph.png)
 In the startup and pitching ecosystem, forecasting growth is critical. This model analyzes a historical dataset of marketing expenditures and corresponding revenue to map a mathematically sound prediction trajectory. 
 
 For the provided `startup_marketing.csv` dataset, the model successfully plotted the overarching growth trend, establishing a highly accurate predictive baseline with a Root Mean Squared Error (RMSE) of just ~$117 off actuals across the entire dataset.
